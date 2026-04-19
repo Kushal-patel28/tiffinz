@@ -1,5 +1,5 @@
 
-# **Tiffinz – Tiffin Service Management App**
+# **Tiffinz – Tiffin Service Management System**
 
 Tiffinz is a full-stack tiffin management platform designed to help users track meals, monitor wallet balance, submit top-up requests, and simplify operations for tiffin service providers. The main idea behind building Tiffinz was to accurately track user balances, reduce manual errors, and bring complete transparency to end users — solving the issues present in the traditional offline tiffin management system. The project is still under active development and continuously improving.
 
